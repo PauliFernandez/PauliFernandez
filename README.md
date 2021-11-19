@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paula Fernández.
 - Tengo 22 años,  soy de Pérez, Santa Fe
-- Soy estudiante de la carrera "Análisis Funcional de Sistemas Informáticos"
-- Tengo conocimientos en: Python, SQLM HTML, CSS, Java Script
+- Recibida en la carrera "Análisis Funcional de Sistemas Informáticos"
+- Tengo conocimientos en: Python, SQL, HTML, CSS, Java Script
 - 📫 How to reach me pauuagustina@gmail.com
  
 <!---
